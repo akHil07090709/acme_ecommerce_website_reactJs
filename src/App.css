@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  font-family: Sen, sans-serif;
+  margin: 0;
+  line-height: 1.5;
+}
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 100vh;
+}
+.mainData {
+  min-height: 52vh;
+}
